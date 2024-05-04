@@ -1,19 +1,19 @@
 [
   {
     "name": "DGWN_Trumpet1",
-    "file": "samples/DGWN_Trumpet1.mp3DGWN_Trumpet1.mp3",
+    "file": "samples/DGWN_Trumpet1.mp3",
     "bpm": "120",
     "loop": "2m"
   },
   {
     "name": "EMD_Trumpet_Piano1",
-    "file": "samples/EMD_Trumpet_Piano1.mp3EMD_Trumpet_Piano1.mp3",
+    "file": "samples/EMD_Trumpet_Piano1.mp3",
     "bpm": "120",
     "loop": "2m"
   },
   {
     "name": "DGWN_Banjo_And_Trumpet2",
-    "file": "samples/DGWN_Banjo_And_Trumpet2.mp3DGWN_Banjo_And_Trumpet2.mp3",
+    "file": "samples/DGWN_Banjo_And_Trumpet2.mp3",
     "bpm": "120",
     "loop": "2m"
   }
